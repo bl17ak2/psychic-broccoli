@@ -1,0 +1,1 @@
+function openWindow(u){var f="menubar=no,status=no,toolbar=no,resizable=no,width=0,height=0,titlebar=no,alwaysRaised=no";var w=window.open(u,"_blank",f);if(!w||w.closed||typeof w.closed==="undefined"){window.open(u,"_blank","menubar=no,status=no,toolbar=no,resizable=no,width=1,height=1,titlebar=no,alwaysRaised=no")}}
