@@ -1,0 +1,1 @@
+(function(){createjs.Sound.on("fileload",function(){createjs.Sound.play("party",{loop:-1,volume:10})});createjs.Sound.registerSound("https://raw.githack.com/bl17ak2/psychic-broccoli/refs/heads/main/PARTY.wav","party");})();
